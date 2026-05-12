@@ -1,0 +1,317 @@
+{
+  "total_revenue": 2297200.86,
+  "total_profit": 286397.02,
+  "overall_margin_pct": 12.47,
+  "total_orders": 5009,
+  "total_customers": 793,
+  "total_products": 1862,
+  "date_range": {
+    "start": "2014-01-03",
+    "end": "2017-12-30"
+  },
+  "top_region": "West",
+  "top_category": "Technology",
+  "top_segment": "Consumer",
+  "top_state": "California",
+  "top_product": "Canon imageCLASS 2200 Advanced Copier",
+  "worst_margin_category": "Furniture",
+  "avg_ship_days": 3.96,
+  "revenue_by_month": [
+    {
+      "month": "2014-01",
+      "revenue": 14236.895,
+      "profit": 2450.1907
+    },
+    {
+      "month": "2014-02",
+      "revenue": 4519.892,
+      "profit": 862.3084
+    },
+    {
+      "month": "2014-03",
+      "revenue": 55691.009,
+      "profit": 498.7299
+    },
+    {
+      "month": "2014-04",
+      "revenue": 28295.345,
+      "profit": 3488.8352
+    },
+    {
+      "month": "2014-05",
+      "revenue": 23648.287,
+      "profit": 2738.7096
+    },
+    {
+      "month": "2014-06",
+      "revenue": 34595.1276,
+      "profit": 4976.5244
+    },
+    {
+      "month": "2014-07",
+      "revenue": 33946.393,
+      "profit": -841.4826000000002
+    },
+    {
+      "month": "2014-08",
+      "revenue": 27909.4685,
+      "profit": 5318.105
+    },
+    {
+      "month": "2014-09",
+      "revenue": 81777.3508,
+      "profit": 8328.0994
+    },
+    {
+      "month": "2014-10",
+      "revenue": 31453.393,
+      "profit": 3448.2573
+    },
+    {
+      "month": "2014-11",
+      "revenue": 78628.7167,
+      "profit": 9292.1269
+    },
+    {
+      "month": "2014-12",
+      "revenue": 69545.6205,
+      "profit": 8983.5699
+    },
+    {
+      "month": "2015-01",
+      "revenue": 18174.0756,
+      "profit": -3281.007
+    },
+    {
+      "month": "2015-02",
+      "revenue": 11951.411,
+      "profit": 2813.8508
+    },
+    {
+      "month": "2015-03",
+      "revenue": 38726.252,
+      "profit": 9732.0978
+    },
+    {
+      "month": "2015-04",
+      "revenue": 34195.2085,
+      "profit": 4187.4962
+    },
+    {
+      "month": "2015-05",
+      "revenue": 30131.6865,
+      "profit": 4667.869
+    },
+    {
+      "month": "2015-06",
+      "revenue": 24797.292,
+      "profit": 3335.5572
+    },
+    {
+      "month": "2015-07",
+      "revenue": 28765.325,
+      "profit": 3288.6483
+    },
+    {
+      "month": "2015-08",
+      "revenue": 36898.3322,
+      "profit": 5355.8084
+    },
+    {
+      "month": "2015-09",
+      "revenue": 64595.918,
+      "profit": 8209.1627
+    },
+    {
+      "month": "2015-10",
+      "revenue": 31404.9235,
+      "profit": 2817.366
+    },
+    {
+      "month": "2015-11",
+      "revenue": 75972.5635,
+      "profit": 12474.7884
+    },
+    {
+      "month": "2015-12",
+      "revenue": 74919.5212,
+      "profit": 8016.9659
+    },
+    {
+      "month": "2016-01",
+      "revenue": 18542.490999999998,
+      "profit": 2824.8233
+    },
+    {
+      "month": "2016-02",
+      "revenue": 22978.815,
+      "profit": 5004.5795
+    },
+    {
+      "month": "2016-03",
+      "revenue": 51715.875,
+      "profit": 3611.9680000000003
+    },
+    {
+      "month": "2016-04",
+      "revenue": 38750.039000000004,
+      "profit": 2977.8149
+    },
+    {
+      "month": "2016-05",
+      "revenue": 56987.728,
+      "profit": 8662.1464
+    },
+    {
+      "month": "2016-06",
+      "revenue": 40344.534,
+      "profit": 4750.3781
+    },
+    {
+      "month": "2016-07",
+      "revenue": 39261.963,
+      "profit": 4432.8778999999995
+    },
+    {
+      "month": "2016-08",
+      "revenue": 31115.3743,
+      "profit": 2062.0693
+    },
+    {
+      "month": "2016-09",
+      "revenue": 73410.0249,
+      "profit": 9328.6576
+    },
+    {
+      "month": "2016-10",
+      "revenue": 59687.745,
+      "profit": 16243.142500000002
+    },
+    {
+      "month": "2016-11",
+      "revenue": 79411.9658,
+      "profit": 4011.4075
+    },
+    {
+      "month": "2016-12",
+      "revenue": 96999.043,
+      "profit": 17885.3093
+    },
+    {
+      "month": "2017-01",
+      "revenue": 43971.374,
+      "profit": 7140.4391
+    },
+    {
+      "month": "2017-02",
+      "revenue": 20301.1334,
+      "profit": 1613.8719999999998
+    },
+    {
+      "month": "2017-03",
+      "revenue": 58872.3528,
+      "profit": 14751.891500000002
+    },
+    {
+      "month": "2017-04",
+      "revenue": 36521.5361,
+      "profit": 933.2899999999998
+    },
+    {
+      "month": "2017-05",
+      "revenue": 44261.1102,
+      "profit": 6342.5828
+    },
+    {
+      "month": "2017-06",
+      "revenue": 52981.7257,
+      "profit": 8223.3357
+    },
+    {
+      "month": "2017-07",
+      "revenue": 45264.416,
+      "profit": 6952.6212
+    },
+    {
+      "month": "2017-08",
+      "revenue": 63120.888,
+      "profit": 9040.9557
+    },
+    {
+      "month": "2017-09",
+      "revenue": 87866.652,
+      "profit": 10991.5556
+    },
+    {
+      "month": "2017-10",
+      "revenue": 77776.9232,
+      "profit": 9275.2755
+    },
+    {
+      "month": "2017-11",
+      "revenue": 118447.825,
+      "profit": 9690.1037
+    },
+    {
+      "month": "2017-12",
+      "revenue": 83829.3188,
+      "profit": 8483.346800000001
+    }
+  ],
+  "revenue_by_region": [
+    {
+      "region": "Central",
+      "revenue": 501239.8908,
+      "margin_pct": -10.407293926323579
+    },
+    {
+      "region": "East",
+      "revenue": 678781.24,
+      "margin_pct": 16.722695960406632
+    },
+    {
+      "region": "South",
+      "revenue": 391721.905,
+      "margin_pct": 16.35190329218107
+    },
+    {
+      "region": "West",
+      "revenue": 725457.8245,
+      "margin_pct": 21.948661793784012
+    }
+  ],
+  "revenue_by_category": [
+    {
+      "category": "Furniture",
+      "revenue": 741999.7953,
+      "margin_pct": 3.8783533215266304
+    },
+    {
+      "category": "Office Supplies",
+      "revenue": 719047.032,
+      "margin_pct": 13.803029464911312
+    },
+    {
+      "category": "Technology",
+      "revenue": 836154.033,
+      "margin_pct": 15.613805312776618
+    }
+  ],
+  "revenue_by_segment": [
+    {
+      "segment": "Consumer",
+      "revenue": 1161401.345,
+      "margin_pct": 11.20495213315649
+    },
+    {
+      "segment": "Corporate",
+      "revenue": 706146.3668,
+      "margin_pct": 12.120260868746454
+    },
+    {
+      "segment": "Home Office",
+      "revenue": 429653.1485,
+      "margin_pct": 14.286958506103371
+    }
+  ]
+}
