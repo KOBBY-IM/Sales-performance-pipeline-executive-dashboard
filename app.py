@@ -591,7 +591,12 @@ with col_yoy:
             color = "#1D9E75" if val >= 0 else "#E24B4A"
             return f"color: {color}; font-weight: 600"
 
-        styled = yoy_table.style.applymap(color_yoy).format("{:.1f}%", na_rep="—")
+        styler = yoy_table.style
+        # pandas >= 2.1: Styler.applymap renamed to .map()
+        if hasattr(styler, "map"):
+            styled = styler.map(color_yoy).format("{:.1f}%", na_rep="—")
+        else:
+            styled = styler.applymap(color_yoy).format("{:.1f}%", na_rep="—")
         st.dataframe(styled, use_container_width=True, height=220)
     else:
         st.info("Select multiple years to see YoY growth.")
