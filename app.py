@@ -765,10 +765,11 @@ with st.expander("View data quality report"):
 # Footer
 st.markdown(
     "<div style='text-align:center; color:#6C757D; font-size:0.85rem;'>"
-    "Project 3 of 6 &nbsp;·&nbsp; Data &amp; Business Analyst Portfolio &nbsp;·&nbsp;"
+    "Data &amp; Business Analyst Portfolio &nbsp;·&nbsp;"
     "Data: <a href='https://www.kaggle.com/datasets/vivek468/superstore-dataset-final' "
     "target='_blank'>Superstore Dataset via Kaggle</a> &nbsp;·&nbsp;"
-    "<a href='https://github.com/' target='_blank'>View source on GitHub</a>"
+    "<a href='https://github.com/KOBBY-IM/Sales-performance-pipeline-executive-dashboard' "
+    "target='_blank'>View source on GitHub</a>"
     "</div>",
     unsafe_allow_html=True,
 )
